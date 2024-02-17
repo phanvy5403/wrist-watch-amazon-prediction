@@ -1,0 +1,49 @@
+name,alias,flags
+ASIN,,
+Band Color,band_color,NC
+Band Material,band_mat,NCM
+Band size,band_size,NU
+Band width,band_width,U
+Batteries,battery,NF
+Bezel function,bezel_func,NC
+Bezel material,bezel_mat,NC
+Brand Seller or Collection Name,brand,NC
+Calendar,has_calendar,NF
+Case Thickness,case_thick,U
+Case diameter,case_diam,U
+Case material,case_mat,NC
+Clasp,clasp,NC3
+Country of Origin,country,
+Date First Available,since,F
+Department,for_gender,NF
+Dial color,dial_color,NC2
+Dial window material type,window_mat,NC
+Display Type,display_type,
+Domestic Shipping,,
+Height,,
+International Shipping,,
+Is Discontinued By Manufacturer,,
+Item Length,,
+Item Shape,shape,NCF
+Item model number,,
+Item weight,weight,NF
+Language,,
+Length,,
+Manufacturer,,
+Manufacturer recommended age,,
+Material,,
+Metal,,
+Metal stamp,,
+Model Year,,
+Model number,,
+Movement,movement,NC
+Package Dimensions,,
+Part Number,,
+Product Dimensions,,
+Product Warranty,,
+Special features,special,
+Water pressure resistance,,
+Water resistant depth,water_resist,NF
+Width,,
+price,price,
+review,review,
